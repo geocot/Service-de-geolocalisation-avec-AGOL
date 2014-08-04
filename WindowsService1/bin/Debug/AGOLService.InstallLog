@@ -1,0 +1,13 @@
+﻿Installing assembly 'D:\Projets\AGOLService\WindowsService1\bin\Debug\AGOLService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Projets\AGOLService\WindowsService1\bin\Debug\AGOLService.exe
+   logfile = D:\Projets\AGOLService\WindowsService1\bin\Debug\AGOLService.InstallLog
+Installing service LocalisationAGOL...
+Service LocalisationAGOL has been successfully installed.
+Creating EventLog source LocalisationAGOL in log Application...
+Committing assembly 'D:\Projets\AGOLService\WindowsService1\bin\Debug\AGOLService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Projets\AGOLService\WindowsService1\bin\Debug\AGOLService.exe
+   logfile = D:\Projets\AGOLService\WindowsService1\bin\Debug\AGOLService.InstallLog
